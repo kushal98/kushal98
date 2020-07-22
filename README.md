@@ -2,10 +2,11 @@
 
 <!--
 **kushal98/kushal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ...
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on JS , Node & Python projects.
 - 🤔 I’m looking for help with Deep Learning Topics.
