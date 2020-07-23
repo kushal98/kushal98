@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&theme=tokyonight)](https://github.com/kushal98?tab=repositories)
 
-
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{kushal98}/count.svg)
 
 
