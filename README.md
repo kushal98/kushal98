@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love helping others!
 
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal98&show_icons=true)
-([Source](https://github.com/anuraghazra/github-readme-stats))
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal98&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&theme=tokyonight)](https://github.com/kushal98?tab=repositories)
+
 
 
 
