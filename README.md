@@ -18,6 +18,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&theme=tokyonight)](https://github.com/kushal98?tab=repositories)
 
+<h2>
+Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+</h2>
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/kagrawal61/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kushal98)| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:kagrawal61@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
+
+
+
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{kushal98}/count.svg)
 
