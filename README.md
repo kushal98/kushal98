@@ -14,9 +14,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love helping others!
 
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal98&show_icons=true&theme=tokyonight)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&theme=tokyonight)](https://github.com/kushal98?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515")](https://github.com/kushal98?tab=repositories)
 
 <h2>
 Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
