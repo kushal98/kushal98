@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on JS , Node & Python projects.
-- 🤔 I’m looking for help with Deep Learning Topics.
 - 🎪 [Visual Portfolio](https://sourcerer.io/kushal98)
 - 💬 Ask me about, be it tech or non-tech!
 - 📫 Reach me via Twitter [@KushalAgrawal14](https://twitter.com/KushalAgrawal14) or [LinkedIn](https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/).
