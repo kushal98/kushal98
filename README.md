@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on ...
 -->
 
-
-- 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on JS , Node & Python projects.
 - 🎪 [Visual Portfolio](https://sourcerer.io/kushal98)
 - 💬 Ask me about, be it tech or non-tech!
